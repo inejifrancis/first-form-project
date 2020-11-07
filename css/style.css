@@ -1,0 +1,48 @@
+body{
+    background-image: url("../myimage.jpg");
+    background-attachment: fixed;
+    opacity: 90%;
+
+}
+
+form{
+    text-align:center;
+    background-color:#1241b9;
+    width: 25em;
+    height: 35em;
+    margin-left: 425px;
+    margin-right: 50px;
+    border-radius: 0.5rem;
+    border: dotted;
+    color: white;
+    opacity: 70%;
+}
+h1{
+    font-style: oblique;
+    /* color: white; */
+    padding-top: 35px;
+}
+.log{
+    border-radius: 0.4rem;
+    height: 2em;
+    margin-left: 50px;
+    width: 20em;
+    display: block;
+    font-weight: 600;
+    margin-top: 20px;
+    border: dotted;
+}
+.login-form{
+    font-weight:900 ;
+    margin-top: 20px ;
+    display: block;
+}
+.login-button{
+    margin-top: 15px;
+    
+}
+
+
+    
+
+
